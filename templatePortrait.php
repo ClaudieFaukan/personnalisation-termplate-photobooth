@@ -9,41 +9,41 @@
     <!-- Font Awesome icons (free version)-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
     <!-- Google fonts-->
- <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css2?family=Acme&amp;display=swap" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@300&amp;display=swap" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Bilbo" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Give+You+Glory" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Grand+Hotel" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Happy+Monkey" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&amp;display=swap" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Italianno" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Italianno" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel|Ruthie" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Miltonian+Tattoo" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Mr+Dafoe" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&amp;display=swap" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Paytone+One" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Ruthie" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Spirax" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
-                <link href="https://fonts.googleapis.com/css?family=Srisakdi" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Acme&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Alex+Brush" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Audiowide" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display:wght@300&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Bilbo" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cinzel+Decorative" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Give+You+Glory" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Grand+Hotel" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Happy+Monkey" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Italianno" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Italianno" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel|Ruthie" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Miltonian+Tattoo" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Mr+Dafoe" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Parisienne" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Paytone+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Ruthie" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Spirax" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Tangerine" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Srisakdi" rel="stylesheet">
 
     <!-- Core theme CSS (includes Bootstrap)-->
     <!--EMOJI STYLE -->
@@ -60,72 +60,208 @@
     <link rel="stylesheet" href='css/emojionearea.min.css'>
     <script src='js/emojionearea.min.js'></script>
     <link href='css/styles.css' rel="stylesheet" />
-  
+
 </head>
-                  <style>
-                    #abril-fatface, .abril-fatface{ font-family: 'Abril Fatface', cursive; }
-                    #acme, .acme{ font-family: 'Acme', sans-serif; }
-                    #alex-brush, .alex-brush{ font-family: 'Alex Brush', cursive; }
-                    #amatic-sc, .amatic-sc{ font-family: 'Amatic SC', cursive; }
-                    #audiowide, .audiowide{ font-family: 'Audiowide', cursive; }
-                    #big-shoulders-stencil-display---light, .big-shoulders-stencil-display---light{ font-family: 'Big Shoulders Stencil Display', cursive; }
-                    #bilbo, .bilbo{ font-family: 'Bilbo', cursive; }
-                    #cinzel-decorative, .cinzel-decorative{ font-family: 'Cinzel Decorative', cursive; }
-                    #dancing-script, .dancing-script{ font-family: 'Dancing Script', cursive; }
-                    #give-you-glory, .give-you-glory{ font-family: 'Give You Glory', cursive; }
-                    #gloria-hallelujah, .gloria-hallelujah{ font-family: 'Gloria Hallelujah', cursive; }
-                    #grand-hotel, .grand-hotel{ font-family: 'Grand Hotel', cursive; }
-                    #happy-monkey, .happy-monkey{ font-family: 'Happy Monkey', cursive; }
-                    #indie-flower, .indie-flower{ font-family: 'Indie Flower', cursive; }
-                    #italianno, .italianno{ font-family: 'Italianno', cursive; }
-                    #lato, .lato{ font-family: 'Lato', sans-serif; }
-                    #lobster, .lobster{ font-family: 'Lobster', cursive; }
-                    #lovers-quarrel, .lovers-quarrel{ font-family: 'Lovers Quarrel', cursive; font-family: 'Ruthie', cursive; }
-                    #miltonian-tattoo, .miltonian-tattoo{ font-family: 'Miltonian Tattoo', cursive; }
-                    #monoton, .monoton{ font-family: 'Monoton', cursive; }
-                    #montserrat, .montserrat{ font-family: 'Montserrat', sans-serif; }
-                    #mr-dafoe, .mr-dafoe{ font-family: 'Mr Dafoe', cursive; }
-                    #nanum-myeongjo, .nanum-myeongjo{ font-family: 'Nanum Myeongjo', serif; }
-                    #pacifico, .pacifico{ font-family: 'Pacifico', cursive; }
-                    #parisienne, .parisienne{ font-family: 'Parisienne', cursive; }
-                    #paytone-one, .paytone-one{ font-family: 'Paytone One', sans-serif; }
-                    #roboto, .roboto{ font-family: 'Roboto', sans-serif; }
-                    #ruthie, .ruthie{ font-family: 'Ruthie', cursive; }
-                    #sacramento, .sacramento{ font-family: 'Sacramento', cursive; }
-                    #satisfy, .satisfy{ font-family: 'Satisfy', cursive; }
-                    #source-serif-pro, .source-serif-pro{ font-family: 'Source Serif Pro', serif; }
-                    #spirax, .spirax{ font-family: 'Spirax', cursive; }
-                    #srisakdi, .srisakdi{ font-family: 'Srisakdi', cursive; }
-                    #tangerine, .tangerine{ font-family: 'Tangerine', cursive; }
-                </style>
+<style>
+    #abril-fatface,
+    .abril-fatface {
+        font-family: 'Abril Fatface', cursive;
+    }
+
+    #acme,
+    .acme {
+        font-family: 'Acme', sans-serif;
+    }
+
+    #alex-brush,
+    .alex-brush {
+        font-family: 'Alex Brush', cursive;
+    }
+
+    #amatic-sc,
+    .amatic-sc {
+        font-family: 'Amatic SC', cursive;
+    }
+
+    #audiowide,
+    .audiowide {
+        font-family: 'Audiowide', cursive;
+    }
+
+    #big-shoulders-stencil-display---light,
+    .big-shoulders-stencil-display---light {
+        font-family: 'Big Shoulders Stencil Display', cursive;
+    }
+
+    #bilbo,
+    .bilbo {
+        font-family: 'Bilbo', cursive;
+    }
+
+    #cinzel-decorative,
+    .cinzel-decorative {
+        font-family: 'Cinzel Decorative', cursive;
+    }
+
+    #dancing-script,
+    .dancing-script {
+        font-family: 'Dancing Script', cursive;
+    }
+
+    #give-you-glory,
+    .give-you-glory {
+        font-family: 'Give You Glory', cursive;
+    }
+
+    #gloria-hallelujah,
+    .gloria-hallelujah {
+        font-family: 'Gloria Hallelujah', cursive;
+    }
+
+    #grand-hotel,
+    .grand-hotel {
+        font-family: 'Grand Hotel', cursive;
+    }
+
+    #happy-monkey,
+    .happy-monkey {
+        font-family: 'Happy Monkey', cursive;
+    }
+
+    #indie-flower,
+    .indie-flower {
+        font-family: 'Indie Flower', cursive;
+    }
+
+    #italianno,
+    .italianno {
+        font-family: 'Italianno', cursive;
+    }
+
+    #lato,
+    .lato {
+        font-family: 'Lato', sans-serif;
+    }
+
+    #lobster,
+    .lobster {
+        font-family: 'Lobster', cursive;
+    }
+
+    #lovers-quarrel,
+    .lovers-quarrel {
+        font-family: 'Lovers Quarrel', cursive;
+        font-family: 'Ruthie', cursive;
+    }
+
+    #miltonian-tattoo,
+    .miltonian-tattoo {
+        font-family: 'Miltonian Tattoo', cursive;
+    }
+
+    #monoton,
+    .monoton {
+        font-family: 'Monoton', cursive;
+    }
+
+    #montserrat,
+    .montserrat {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    #mr-dafoe,
+    .mr-dafoe {
+        font-family: 'Mr Dafoe', cursive;
+    }
+
+    #nanum-myeongjo,
+    .nanum-myeongjo {
+        font-family: 'Nanum Myeongjo', serif;
+    }
+
+    #pacifico,
+    .pacifico {
+        font-family: 'Pacifico', cursive;
+    }
+
+    #parisienne,
+    .parisienne {
+        font-family: 'Parisienne', cursive;
+    }
+
+    #paytone-one,
+    .paytone-one {
+        font-family: 'Paytone One', sans-serif;
+    }
+
+    #roboto,
+    .roboto {
+        font-family: 'Roboto', sans-serif;
+    }
+
+    #ruthie,
+    .ruthie {
+        font-family: 'Ruthie', cursive;
+    }
+
+    #sacramento,
+    .sacramento {
+        font-family: 'Sacramento', cursive;
+    }
+
+    #satisfy,
+    .satisfy {
+        font-family: 'Satisfy', cursive;
+    }
+
+    #source-serif-pro,
+    .source-serif-pro {
+        font-family: 'Source Serif Pro', serif;
+    }
+
+    #spirax,
+    .spirax {
+        font-family: 'Spirax', cursive;
+    }
+
+    #srisakdi,
+    .srisakdi {
+        font-family: 'Srisakdi', cursive;
+    }
+
+    #tangerine,
+    .tangerine {
+        font-family: 'Tangerine', cursive;
+    }
+</style>
 
 
 
 <body id="page-top" onload="loadOptionsUser()">
-<style>
-    /*
+    <style>
+        /*
     Removes white gap between slides
     */
-    .carousel {
-    background:#444;
-    }
+        .carousel {
+            background: #444;
+        }
 
-    /*
+        /*
     Forces image to be 100% width and not max width of 100%
     */
-    .carousel-item .img-fluid {
-    width:100%;
-    height:auto;
-    }
+        .carousel-item .img-fluid {
+            width: 100%;
+            height: auto;
+        }
 
-    /* 
+        /* 
     anchors are inline so you need ot make them block to go full width
     */
-    .carousel-item a {
-    display: block;
-    width:100%;
-    }
-</style>
+        .carousel-item a {
+            display: block;
+            width: 100%;
+        }
+    </style>
     <!-- HEADER 
     <header class="bg-primary text-white text-center">
 
@@ -164,42 +300,42 @@
             </div>
             <!--CATALOGUE -->
             <div class="mx-auto" style="margin-bottom: 15px;">
-            <button style="padding: 3px; border-radius:3px; border-color:#ff4297"><a href="https://fr.calameo.com/read/006223822efbb4f329a92" target="_blank" style="color:white">Visualiser notre catalogue en HD</a></button>
-                    </div>
-                <!-- CAROUSEL -->
-                <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                <button style="padding: 3px; border-radius:3px; border-color:#ff4297"><a href="https://fr.calameo.com/read/006223822efbb4f329a92" target="_blank" style="color:white">Visualiser notre catalogue en HD</a></button>
+            </div>
+            <!-- CAROUSEL -->
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
-                        <?php for($i=0; $i<=100;$i++){
-                            if($i == 0 ){
-                                echo('<div class="carousel-item active" >
-                                <img src="./src/catalogue/CATALOGUE_LITTLE_BIG-'.$i.'.jpg" width="50%" height="50%">
+                    <?php for ($i = 0; $i <= 100; $i++) {
+                        if ($i == 0) {
+                            echo ('<div class="carousel-item active" >
+                                <img src="./src/catalogue/CATALOGUE_LITTLE_BIG-' . $i . '.jpg" width="50%" height="50%">
                             </div>');
-                            }else{
-                                echo('<div class="carousel-item" >
+                        } else {
+                            echo ('<div class="carousel-item" >
                                 <div style="margin-top:10px">
-                                <img src="./src/catalogue/CATALOGUE_LITTLE_BIG-'.$i.'.jpg" width="50%" height="50%">
+                                <img src="./src/catalogue/CATALOGUE_LITTLE_BIG-' . $i . '.jpg" width="50%" height="50%">
                                 </div>
                                 <div class="row">
-                                <button class="mx-auto text-center" style="margin-top: 20px; margin-bottom:20px;padding: 7px; border-radius:5px; border-color:#ff4297"onclick="chooseTemplate('.$i.')">Choisir ce template</button>
+                                <button class="mx-auto text-center" style="margin-top: 20px; margin-bottom:20px;padding: 7px; border-radius:5px; border-color:#ff4297"onclick="chooseTemplate(' . $i . ')">Choisir ce template</button>
                                 </div>
                             </div>
                             ');
-                            }
-                        }?>
-					</div>
-					<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-					</a>
-				</div>
+                        }
+                    } ?>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
 
-                <!-- CAROUSSEL -->
+            <!-- CAROUSSEL -->
 
-                <!-- END TEST -->
+            <!-- END TEST -->
 
             <div class="row" style="margin-bottom:13px;">
                 <!-- POLICE -->
@@ -240,12 +376,14 @@
                         <option id="source-serif-pro" data-font="Source Serif Pro">Source Serif Pro</option>
                         <option id="spirax" data-font="spirax">spirax</option>
                         <option id="srisakdi" data-font="Srisakdi">Srisakdi</option>
-                        <option id="tangerine"><div id="tangerine" data-font="Tangerine">Tangerine</div></option>
+                        <option id="tangerine">
+                            <div id="tangerine" data-font="Tangerine">Tangerine</div>
+                        </option>
                     </select>
                 </div>
                 <!--    SIZE POLICE -->
                 <div style="margin-left:10px">
-                    <label>  <i class="fas fa-text-height"></i> : Taille</label>
+                    <label> <i class="fas fa-text-height"></i> : Taille</label>
                     <select name="sizePolice" id="sizePolice" title="Choix de la taille de police">
                         <option value="20">20</option>
                         <option value="30">30</option>
@@ -267,24 +405,24 @@
                 </div>
 
                 <!-- BOUTON FONT -->
-                    <div class="btn-toolbar" style="margin-top:0px;margin-bottom:0px;margin-left:10px">
-                        <div class="btn-group">
-                            <button class="btn" data-original-title="Bold - Ctrl+B" id="bold" title="Mettre en gras"><i class="icon-bold"></i></button>
-                            <button class="btn" data-original-title="Italic - Ctrl+I" id="italic" title="Mettre en italique"><i class="icon-italic"></i></button>
-                            <button class="btn" data-original-title="underline" id="underline" title="Souligner le texte"><i class="fas fa-underline"></i></button>
-                            <button class="btn" data-original-title="strikethrought" id="strikestrough" title="Barrer le texte"><i class="fas fa-strikethrough"></i></button>
-                            <button class="btn" data-original-title="highlight" id="highlight" title="Surligner le texte"><i class="fas fa-highlighter"></i></button>
-                        </div>
-                        <div id="inputColorHighlight" style="display: none;">
-                            <span> Couleur de surbrillance </span>
-                            <input type="color" id="colorHighlight" title="Choix de la couleur de surbrillance">
-                            <span>Effacer surbrillance</span>
-                            <button class="btn" data-original-title="remove-highlight" id="removeHighlight" alt="effacer la surbrillance" title="Effacer la surbrillance"><i class="fas fa-eraser"></i></button>
-                        </div>
+                <div class="btn-toolbar" style="margin-top:0px;margin-bottom:0px;margin-left:10px">
+                    <div class="btn-group">
+                        <button class="btn" data-original-title="Bold - Ctrl+B" id="bold" title="Mettre en gras"><i class="icon-bold"></i></button>
+                        <button class="btn" data-original-title="Italic - Ctrl+I" id="italic" title="Mettre en italique"><i class="icon-italic"></i></button>
+                        <button class="btn" data-original-title="underline" id="underline" title="Souligner le texte"><i class="fas fa-underline"></i></button>
+                        <button class="btn" data-original-title="strikethrought" id="strikestrough" title="Barrer le texte"><i class="fas fa-strikethrough"></i></button>
+                        <button class="btn" data-original-title="highlight" id="highlight" title="Surligner le texte"><i class="fas fa-highlighter"></i></button>
                     </div>
-                    <div>
+                    <div id="inputColorHighlight" style="display: none;">
+                        <span> Couleur de surbrillance </span>
+                        <input type="color" id="colorHighlight" title="Choix de la couleur de surbrillance">
+                        <span>Effacer surbrillance</span>
+                        <button class="btn" data-original-title="remove-highlight" id="removeHighlight" alt="effacer la surbrillance" title="Effacer la surbrillance"><i class="fas fa-eraser"></i></button>
+                    </div>
+                </div>
+                <div>
                     <select name="template2" id="template2" title="Choix du template" style="margin-top:0px;margin-bottom:0px;margin-left:10px">
-                        <?php 
+                        <?php
 
                         $list = [
                             "01_MONICA_ET_CHANDLER",
@@ -389,42 +527,42 @@
                             "100_FIREWORK"
                         ];
                         $count = count($list);
-                        echo('<option disabled selected >Selectionner votre template</option>');
-                        for($i=0;$i < $count; $i++){
-                            $y=$i+1;
-                            echo('<option value="'.$y.'">'.$list[$i].'</option>');
+                        echo ('<option disabled selected >Selectionner votre template</option>');
+                        for ($i = 0; $i < $count; $i++) {
+                            $y = $i + 1;
+                            echo ('<option value="' . $y . '">' . $list[$i] . '</option>');
                         }
                         ?>
                     </select>
-                    </div>
+                </div>
 
-            </div> 
-         </div>
-         <!-- TEXT AREA -->
-         <textarea id="example1" placeholder="Entrer votre texte içi..🤩👍" style="font-weight: bold"></textarea>
+            </div>
+        </div>
+        <!-- TEXT AREA -->
+        <textarea id="example1" placeholder="Entrer votre texte içi..🤩👍" style="font-weight: bold"></textarea>
 
-         <!-- BOUTONS DE VALIDATION-->
+        <!-- BOUTONS DE VALIDATION-->
         <div class="row mx-auto">
-        <label></label>
-        <button id="ok" title="Prévisualiser le résultat" style="margin-top: 20px; margin-bottom:20px;padding: 7px; border-radius:5px; border-color:#ff4297;margin-right:10px; margin-left:10px">Appliquer les modifications</button>
-        <button class="btn btn-success" title="NextStep" id="NextStep"  style="margin-top: 20px; margin-bottom:20px">Passer à la personnalisation 4 poses</button>
+            <label></label>
+            <button id="ok" title="Prévisualiser le résultat" style="margin-top: 20px; margin-bottom:20px;padding: 7px; border-radius:5px; border-color:#ff4297;margin-right:10px; margin-left:10px">Appliquer les modifications</button>
+            <button class="btn btn-success" title="NextStep" id="NextStep" style="margin-top: 20px; margin-bottom:20px">Passer à la personnalisation 4 poses</button>
         </div>
 
-        <center> 
+        <center>
             <h1>Personnalisation de votre theme </h1>
-            <h3>Format portrait 1 pose</h3> 
+            <h3>Format portrait 1 pose</h3>
             <?php $all = $_GET["all"];
-            if($all == "true"){
-                echo('<h4>Etape 5/7</h4>');
-            }else{
-                echo('<h4>Etape 1/2</h4>');
+            if ($all == "true") {
+                echo ('<h4>Etape 5/7</h4>');
+            } else {
+                echo ('<h4>Etape 1/2</h4>');
             }
             ?>
             <div id="backgroundcanvas" style="background-color:#444;padding:15px; display:none">
-            <canvas id="canvas"></canvas> 
+                <canvas id="canvas"></canvas>
             </div>
-        </center> 
-  
+        </center>
+
     </section>
     <!-- Footer-->
     <footer class="footer text-center">
@@ -463,131 +601,131 @@
             <i class="fa fa-chevron-up"></i>
         </a>
     </div>
-    <?php 
-        $all = $_GET["all"];
+    <?php
+    $all = $_GET["all"];
 
-        if ($all =="true"){
-            $textUser = $_GET["text"];
-            $mail = $_GET["mail"];
-            $commande = $_GET["commande"];
-            $fontweight=$_GET["fontweight"];
-            $fontSize=$_GET["fontSize"];
-            $fontFamily=$_GET["fontFamily"];
-            $underline=$_GET["underline"];
-            $linethrough=$_GET["linethrough"];
-            $overline=$_GET["overline"];
-            $fontStyle=$_GET["fontStyle"];
-            $template=$_GET["template"];
-            $textBackgroundColor = $_GET["textBackgroundColor"];
-            $fontColor = $_GET["fontColor"];
-        }else{
-            $textUser = "Veuillez saisir votre texte";
-            $mail = $_GET["mail"];
-            $commande = $_GET["commande"];
-            $fontweight="normal";
-            $fontSize=40;
-            $fontFamily="sans-serif";
-            $underline=false;
-            $linethrough=false;
-            $overline=false;
-            $fontStyle='normal';
-            $template=1;
-            $textBackgroundColor = false;
-            $fontColor = "black";
-        }
-        
-            echo('
-            <button id="text" value="'.$textUser.'" hidden></button>
-            <button id="mail" value="'.$mail.'" hidden></button>
-            <button id="commande" value="'.$commande.'" hidden></button>
-            <button id="fontweight" value="'.$fontweight.'" hidden></button>
-            <button id="fontSize" value="'.$fontSize.'" hidden></button>
-            <button id="fontFamily" value="'.$fontFamily.'" hidden></button>
-            <button id="underline" value="'.$underline.'" hidden></button>
-            <button id="linethrough" value="'.$linethrough.'" hidden></button>
-            <button id="overline" value="'.$overline.'" hidden></button>
-            <button id="fontStyle" value="'.$fontStyle.'" hidden></button>
-            <button id="template" value="'.$template.'" hidden></button>
-            <button id="all" value="'.$all.'" hidden></button>
-            <button id="textBackgroundColor" value="'.$textBackgroundColor.'" hidden></button>
-            <button id="fontColor" value="'.$fontColor.'" hidden></button>
+    if ($all == "true") {
+        $textUser = $_GET["text"];
+        $mail = $_GET["mail"];
+        $commande = $_GET["commande"];
+        $fontweight = $_GET["fontweight"];
+        $fontSize = $_GET["fontSize"];
+        $fontFamily = $_GET["fontFamily"];
+        $underline = $_GET["underline"];
+        $linethrough = $_GET["linethrough"];
+        $overline = $_GET["overline"];
+        $fontStyle = $_GET["fontStyle"];
+        $template = $_GET["template"];
+        $textBackgroundColor = $_GET["textBackgroundColor"];
+        $fontColor = $_GET["fontColor"];
+    } else {
+        $textUser = "Veuillez saisir votre texte";
+        $mail = $_GET["mail"];
+        $commande = $_GET["commande"];
+        $fontweight = "normal";
+        $fontSize = 40;
+        $fontFamily = "sans-serif";
+        $underline = false;
+        $linethrough = false;
+        $overline = false;
+        $fontStyle = 'normal';
+        $template = 1;
+        $textBackgroundColor = false;
+        $fontColor = "black";
+    }
+
+    echo ('
+            <button id="text" value="' . $textUser . '" hidden></button>
+            <button id="mail" value="' . $mail . '" hidden></button>
+            <button id="commande" value="' . $commande . '" hidden></button>
+            <button id="fontweight" value="' . $fontweight . '" hidden></button>
+            <button id="fontSize" value="' . $fontSize . '" hidden></button>
+            <button id="fontFamily" value="' . $fontFamily . '" hidden></button>
+            <button id="underline" value="' . $underline . '" hidden></button>
+            <button id="linethrough" value="' . $linethrough . '" hidden></button>
+            <button id="overline" value="' . $overline . '" hidden></button>
+            <button id="fontStyle" value="' . $fontStyle . '" hidden></button>
+            <button id="template" value="' . $template . '" hidden></button>
+            <button id="all" value="' . $all . '" hidden></button>
+            <button id="textBackgroundColor" value="' . $textBackgroundColor . '" hidden></button>
+            <button id="fontColor" value="' . $fontColor . '" hidden></button>
             ');
 
     ?>
     <script>
-
         /**********     CREATION CANVA      *************/
         var path;
-            var canvas;
-            var text;
-            function loadOptionsUser(){
+        var canvas;
+        var text;
 
-                //recup des variable
-                fontweight = document.getElementById("fontweight").value;
-                fontSize= document.getElementById("fontSize").value;
-                fontFamily= document.getElementById("fontFamily").value;
-                underline= document.getElementById("underline").value;
-                linethrough= document.getElementById("linethrough").value;
-                overline= document.getElementById("overline").value;
-                fontStyle= document.getElementById("fontStyle").value;
-                template= document.getElementById("template").value;
-                getText = document.getElementById("text").value;
-                getBackgroundColor = document.getElementById("textBackgroundColor").value;
-                fontColor = document.getElementById("fontColor").value;
+        function loadOptionsUser() {
 
-                //condition du stytle text pour le passer de string en boolean
-            
-                underline == "false" ? underline = false : underline ;
-                linethrough == "false"? linethrough = false : linethrough ;
-                overline == "false"? overline = false : overline;
-                getBackgroundColor == "false"?getBackgroundColor = false : getBackgroundColor;
+            //recup des variable
+            fontweight = document.getElementById("fontweight").value;
+            fontSize = document.getElementById("fontSize").value;
+            fontFamily = document.getElementById("fontFamily").value;
+            underline = document.getElementById("underline").value;
+            linethrough = document.getElementById("linethrough").value;
+            overline = document.getElementById("overline").value;
+            fontStyle = document.getElementById("fontStyle").value;
+            template = document.getElementById("template").value;
+            getText = document.getElementById("text").value;
+            getBackgroundColor = document.getElementById("textBackgroundColor").value;
+            fontColor = document.getElementById("fontColor").value;
 
-                optionsGetUser = {
+            //condition du stytle text pour le passer de string en boolean
 
-                    fontWeight: fontweight,
-                    fontSize: fontSize,
-                    fontFamily: fontFamily,
-                    underline : underline,
-                    linethrough : linethrough,
-                    overline : overline,
-                    fontStyle: fontStyle,
-                    textBackgroundColor: getBackgroundColor,
-                    fill:fontColor,
-                }
-                //ajout template
-                chooseTemplate(template,getText,optionsGetUser);
+            underline == "false" ? underline = false : underline;
+            linethrough == "false" ? linethrough = false : linethrough;
+            overline == "false" ? overline = false : overline;
+            getBackgroundColor == "false" ? getBackgroundColor = false : getBackgroundColor;
+
+            optionsGetUser = {
+
+                fontWeight: fontweight,
+                fontSize: fontSize,
+                fontFamily: fontFamily,
+                underline: underline,
+                linethrough: linethrough,
+                overline: overline,
+                fontStyle: fontStyle,
+                textBackgroundColor: getBackgroundColor,
+                fill: fontColor,
             }
+            //ajout template
+            chooseTemplate(template, getText, optionsGetUser);
+        }
 
-            
-        function chooseTemplate(e,getText,optionsGetUser){
+
+        function chooseTemplate(e, getText, optionsGetUser) {
             $("#backgroundcanvas").show();
-            if(canvas == null){
+            if (canvas == null) {
                 id = e;
-                path = "src/theme/"+id+"/01_PNG/"+id+"_PORTRAIT_1POSE.png";
-                    // Create a new instace of Canvas 
-                canvas = new fabric.Canvas("canvas",{
+                path = "src/theme/" + id + "/01_PNG/" + id + "_PORTRAIT_1POSE.png";
+                // Create a new instace of Canvas 
+                canvas = new fabric.Canvas("canvas", {
                     width: 1000,
-                    height:1500,
+                    height: 1500,
                     backgroundImage: path
-                }); 
+                });
                 // Create a new Textbox instance by default
-                text = new fabric.Textbox(getText,optionsGetUser)
-                canvas.add(text); 
+                text = new fabric.Textbox(getText, optionsGetUser)
+                canvas.add(text);
                 options["template"] = id;
-                
-            }else{
+
+            } else {
                 id = e;
-                path = "src/theme/"+id+"/01_PNG/"+id+"_PORTRAIT_1POSE.png";
+                path = "src/theme/" + id + "/01_PNG/" + id + "_PORTRAIT_1POSE.png";
                 canvas.remove(text);
 
                 canvas.setBackgroundImage(path, canvas.renderAll.bind(canvas), {
                     // should the image be resized to fit the container?
                     backgroundImageStretch: false
                 });
-                text = new fabric.Textbox(getText,optionsGetUser)
-                canvas.add(text); 
+                text = new fabric.Textbox(getText, optionsGetUser)
+                canvas.add(text);
                 options["template"] = id;
-            } 
+            }
         }
         /************   PERSONALISATION TEXTE PAR USER  ************/
 
@@ -596,30 +734,30 @@
             fontWeight: "normal",
             fontSize: 40,
             fontFamily: "sans-serif",
-            underline : false,
-            linethrough : false,
-            overline : false,
+            underline: false,
+            linethrough: false,
+            overline: false,
             fontStyle: 'normal',
             textBackgroundColor: false,
-            fill:"black",
-            template:"nothing",
+            fill: "black",
+            template: "nothing",
 
         };
         var optionsText = {
-            value : "nothing"
+            value: "nothing"
         }
 
         // *********    CLICK OK    ******************//
 
         //Ajoute le text & emoji sur le canva
-        $("#ok").on('click',()=>{
-            if(options["template"] == "nothing"){
+        $("#ok").on('click', () => {
+            if (options["template"] == "nothing") {
                 alert("Veuillez choisir un template");
-            }else{
-                var valueText=document.getElementById("example1").value;
+            } else {
+                var valueText = document.getElementById("example1").value;
                 canvas.remove(text);
                 canvas.remove(valueText);
-                text = new fabric.Textbox(valueText,options);
+                text = new fabric.Textbox(valueText, options);
                 canvas.add(text);
                 optionsText["value"] = text
             }
@@ -630,127 +768,127 @@
         });
 
         // *********    CLICK BOLD  ******************// 
-        var selectBold=0;
+        var selectBold = 0;
         var bold;
-        $("#bold").on("click",()=>{
-            if (selectBold == 0){
-                bold="bold";
-                selectBold=1;
-            }else{
+        $("#bold").on("click", () => {
+            if (selectBold == 0) {
+                bold = "bold";
+                selectBold = 1;
+            } else {
                 bold = "normal";
-                selectBold=0;
-            } 
+                selectBold = 0;
+            }
             //modifie les options 
             options["fontWeight"] = bold;
             //modifie le pré rendu dans le textare
-            $(".emojionearea-editor").css("font-weight",bold)
-        });   
+            $(".emojionearea-editor").css("font-weight", bold)
+        });
         /************   CLICK ITALIC    ***************/
-        var selectItalic=0;
+        var selectItalic = 0;
         var italic;
-        $("#italic").on("click",()=>{ 
+        $("#italic").on("click", () => {
 
-            if(selectItalic == 0){
+            if (selectItalic == 0) {
                 italic = "italic";
                 selectItalic = 1;
-            }else{
-                italic="normal";
+            } else {
+                italic = "normal";
                 selectItalic = 0;
             }
             //modifie les options 
             options["fontStyle"] = italic;
             //modifie le pré rendu dans le textare
-            $(".emojionearea-editor").css("font-style",italic);
+            $(".emojionearea-editor").css("font-style", italic);
         });
         /*********      CLICK UNDERLINE     ******************/
-        var selectUnderline =0;
+        var selectUnderline = 0;
         var underline;
-        $("#underline").on("click",()=>{
+        $("#underline").on("click", () => {
 
-            if(selectUnderline == 0){
+            if (selectUnderline == 0) {
                 underline = true;
                 selectUnderline = 1;
-            }else{
-                underline =false;
+            } else {
+                underline = false;
                 selectUnderline = 0;
             }
             //modifie les options 
             options["underline"] = underline;
             //modifie le pré rendu dans le textare, ajout d'un if car css accepte pas true/false text deocration
-            underline == true ? $(".emojionearea-editor").css("text-decoration","underline") : $(".emojionearea-editor").css("text-decoration","none")
+            underline == true ? $(".emojionearea-editor").css("text-decoration", "underline") : $(".emojionearea-editor").css("text-decoration", "none")
         });
         /***********    STRIKETHROUGH   **************/
         var selectStrike = 0;
         var strike;
-        $("#strikestrough").on("click",()=>{
-            if(selectStrike == 0){
+        $("#strikestrough").on("click", () => {
+            if (selectStrike == 0) {
                 strike = true
                 selectStrike = 1;
-            }else{
-                selectStrike=0;
+            } else {
+                selectStrike = 0;
                 strike = false
             }
             options["linethrough"] = strike;
             //modifie le pré rendu dans le textare, ajout d'un if car css accepte pas true/false text-deocration-line
-            strike == true ? $(".emojionearea-editor").css("text-decoration-line","line-through") : $(".emojionearea-editor").css("text-decoration-line","none")
+            strike == true ? $(".emojionearea-editor").css("text-decoration-line", "line-through") : $(".emojionearea-editor").css("text-decoration-line", "none")
         });
 
         /************ SIZE POLICE *********************/
-        $("#sizePolice").on("change",(event)=>{
+        $("#sizePolice").on("change", (event) => {
             pt = event.target.value;
             options["fontSize"] = pt;
         });
-        /************ CHANGE POLICE *********************/  
-        $("#police").on("change", (event)=>{ // au changement du select
-            police = event.target.value; 
+        /************ CHANGE POLICE *********************/
+        $("#police").on("change", (event) => { // au changement du select
+            police = event.target.value;
             options["fontFamily"] = police;
             $(".emojionearea-editor").css("font-family", police);
         });
 
         /***********    COLOR POLICE    *******************/
-        $("#color").on('change',(event)=>{
+        $("#color").on('change', (event) => {
             color = event.target.value;
             options["fill"] = color;
-            $(".emojionearea-editor").css("color",color); 
+            $(".emojionearea-editor").css("color", color);
         });
         /**************     HIGHLIGHT    ************************/
         var highlightActive = false;
         //Active bouton & show/hide pallette de couleur
-        $("#highlight").on("click",()=>{
-            if(highlightActive == false){
+        $("#highlight").on("click", () => {
+            if (highlightActive == false) {
                 $("#inputColorHighlight").show();
                 highlightActive = true;
-            }else{
+            } else {
                 $("#inputColorHighlight").hide();
                 highlightActive = false;
             }
         });
         //Definition de la couleur de surbrillance
-        $("#colorHighlight").on("change",(event)=>{
+        $("#colorHighlight").on("change", (event) => {
             color = event.target.value;
             options["textBackgroundColor"] = color;
-            $(".emojionearea-editor").css("background-color",color);
+            $(".emojionearea-editor").css("background-color", color);
         })
         // Remove surbrillance
-        $("#removeHighlight").on("click",()=>{
+        $("#removeHighlight").on("click", () => {
             options["textBackgroundColor"] = false;
-            $(".emojionearea-editor").css("background-color","transparent");
+            $(".emojionearea-editor").css("background-color", "transparent");
         });
 
         //**************** CHANGE TEMPLATE WITH LIST ****************** */
-        $("#template2").on("change",(event)=>{
-                value = event.target.value;
-                chooseTemplate(value,getText,optionsGetUser);
+        $("#template2").on("change", (event) => {
+            value = event.target.value;
+            chooseTemplate(value, getText, optionsGetUser);
         });
         // ***************** VALIDATION TEMPLATE n*1 ******************** /
-        $("#validationTemplate").on("click",()=>{
-            
+        $("#validationTemplate").on("click", () => {
+
 
 
         });
         // ************* NEXT STEP ********************
-        $('#NextStep').on('click', ()=>{
-            if(options["template"] != "nothing"){
+        $('#NextStep').on('click', () => {
+            if (options["template"] != "nothing") {
 
                 //j'ai besoin des options choisie => options & optionsText["value"]
                 //d'enregistrer le fichier créer dans un dossier en attente
@@ -764,419 +902,407 @@
                 mail = document.getElementById("mail").value;
                 commande = document.getElementById("commande").value;
                 textUser = optionsText["value"]["text"];
-                if(textUser == undefined){
+                if (textUser == undefined) {
                     textUser = getText
                 }
                 all = document.getElementById("all").value;
 
 
-                if(all == "true"){
-                        $.ajax({
+                if (all == "true") {
+                    $.ajax({
                         type: "POST",
-                        url: "/saveTemplate.php",
+                        url: "/photobooth-custom/saveTemplate.php",
                         data: {
-                            "image" : canvas.toDataURL(),
+                            "image": canvas.toDataURL(),
                             "format": "portrait_1pose",
                             "mail": mail,
                             "commande": commande
-                        }, 
-                    }).then(()=>{
+                        },
+                    }).then(() => {
                         var link = document.createElement("a");
-                        link.href = "/templatePortrait2.php?mail="+mail+
-                                    "&commande="+commande+
-                                    "&all="+all+
-                                    "&fontweight="+ encodeURIComponent(optionsGetUser["fontWeight"])+
-                                    "&fontSize="+encodeURIComponent(optionsGetUser["fontSize"])+
-                                    "&fontFamily="+encodeURIComponent(optionsGetUser["fontFamily"])+
-                                    "&underline="+ encodeURIComponent(optionsGetUser["underline"])+
-                                    "&linethrough="+ encodeURIComponent(optionsGetUser["linethrough"])+
-                                    "&overline="+ encodeURIComponent(optionsGetUser["overline"])+
-                                    "&fontStyle="+encodeURIComponent(optionsGetUser["fontStyle"])+
-                                    "&template="+encodeURIComponent(options["template"])+
-                                    "&text="+encodeURIComponent(textUser)+
-                                    "&textBackgroundColor="+ encodeURIComponent(textBackgroundColor.value)+
-                                    "&fontColor="+encodeURIComponent(optionsGetUser["fill"]),
-                        link.click();
+                        link.href = "/photobooth-custom/templatePortrait2.php?mail=" + mail +
+                            "&commande=" + commande +
+                            "&all=" + all +
+                            "&fontweight=" + encodeURIComponent(optionsGetUser["fontWeight"]) +
+                            "&fontSize=" + encodeURIComponent(optionsGetUser["fontSize"]) +
+                            "&fontFamily=" + encodeURIComponent(optionsGetUser["fontFamily"]) +
+                            "&underline=" + encodeURIComponent(optionsGetUser["underline"]) +
+                            "&linethrough=" + encodeURIComponent(optionsGetUser["linethrough"]) +
+                            "&overline=" + encodeURIComponent(optionsGetUser["overline"]) +
+                            "&fontStyle=" + encodeURIComponent(optionsGetUser["fontStyle"]) +
+                            "&template=" + encodeURIComponent(options["template"]) +
+                            "&text=" + encodeURIComponent(textUser) +
+                            "&textBackgroundColor=" + encodeURIComponent(textBackgroundColor.value) +
+                            "&fontColor=" + encodeURIComponent(optionsGetUser["fill"]),
+                            link.click();
                         link.delete;
-                    });  
-                }else{
+                    });
+                } else {
                     $.ajax({
-                    type: "POST",
-                    url: "/saveTemplate.php",
-                    data: {
-                        "image" : canvas.toDataURL(),
-                        "format": "portrait_1pose",
-                        "mail": mail,
-                        "commande": commande
-                    }, 
-                }).then(()=>{
-                    var link = document.createElement("a");
-                    link.href = "/templatePortrait2.php?mail="+mail+
-                                "&commande="+commande+
-                                "&all="+all+
-                                "&fontweight="+ encodeURIComponent(options["fontWeight"])+
-                                "&fontSize="+encodeURIComponent(options["fontSize"])+
-                                "&fontFamily="+encodeURIComponent(options["fontFamily"])+
-                                "&underline="+ encodeURIComponent(options["underline"])+
-                                "&linethrough="+ encodeURIComponent(options["linethrough"])+
-                                "&overline="+ encodeURIComponent(options["overline"])+
-                                "&fontStyle="+encodeURIComponent(options["fontStyle"])+
-                                "&template="+encodeURIComponent(options["template"])+
-                                "&text="+encodeURIComponent(textUser)+
-                                "&textBackgroundColor="+ encodeURIComponent(textBackgroundColor.value)+
-                                "&fontColor="+encodeURIComponent(options["fill"]),
-                    link.click();
-                    link.delete;
-                });  
+                        type: "POST",
+                        url: "/saveTemplate.php",
+                        data: {
+                            "image": canvas.toDataURL(),
+                            "format": "portrait_1pose",
+                            "mail": mail,
+                            "commande": commande
+                        },
+                    }).then(() => {
+                        var link = document.createElement("a");
+                        link.href = "/templatePortrait2.php?mail=" + mail +
+                            "&commande=" + commande +
+                            "&all=" + all +
+                            "&fontweight=" + encodeURIComponent(options["fontWeight"]) +
+                            "&fontSize=" + encodeURIComponent(options["fontSize"]) +
+                            "&fontFamily=" + encodeURIComponent(options["fontFamily"]) +
+                            "&underline=" + encodeURIComponent(options["underline"]) +
+                            "&linethrough=" + encodeURIComponent(options["linethrough"]) +
+                            "&overline=" + encodeURIComponent(options["overline"]) +
+                            "&fontStyle=" + encodeURIComponent(options["fontStyle"]) +
+                            "&template=" + encodeURIComponent(options["template"]) +
+                            "&text=" + encodeURIComponent(textUser) +
+                            "&textBackgroundColor=" + encodeURIComponent(textBackgroundColor.value) +
+                            "&fontColor=" + encodeURIComponent(options["fill"]),
+                            link.click();
+                        link.delete;
+                    });
                 }
 
-            }else{
+            } else {
                 alert("Veuillez choisir un template");
             }
         });
     </script>
-        <script>
-    const tour = new Shepherd.Tour({
+    <script>
+        const tour = new Shepherd.Tour({
             defaultStepOptions: {
-            cancelIcon: {
-            enabled: true
-            },
-            classes: 'class-1 class-2',
-            scrollTo: { behavior: 'smooth', block: 'center' }
-        }
+                cancelIcon: {
+                    enabled: true
+                },
+                classes: 'class-1 class-2',
+                scrollTo: {
+                    behavior: 'smooth',
+                    block: 'center'
+                }
+            }
         });
 
         tour.addStep({
-        title: 'Votre personnalisation',
-        text: `Içi vous pouvez feuilleter notre catalogue de template`,
-        attachTo: {
-            element: '#catalogue',
-            on: 'bottom'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Votre personnalisation',
+            text: `Içi vous pouvez feuilleter notre catalogue de template`,
+            attachTo: {
+                element: '#catalogue',
+                on: 'bottom'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating'
         });
 
         tour.addStep({
-        title: 'Retrouver directement nos templates\n juste içi',
-        text: 'Cliquer sur les fleches de gauche ou de droite, pour naviguer',
-        attachTo: {
-            element: '#carouselExampleIndicators',
-            on: 'right'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Retrouver directement nos templates\n juste içi',
+            text: 'Cliquer sur les fleches de gauche ou de droite, pour naviguer',
+            attachTo: {
+                element: '#carouselExampleIndicators',
+                on: 'right'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Celui-çi vous plait ?',
-        text: 'Cliquer sur le bouton rose il est maintenant afficher plus bas',
-        attachTo: {
-            element: '#carouselExampleIndicators',
-            on: 'bottom'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Celui-çi vous plait ?',
+            text: 'Cliquer sur le bouton rose il est maintenant afficher plus bas',
+            attachTo: {
+                element: '#carouselExampleIndicators',
+                on: 'bottom'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Vous avez feuilleter le catalogue ?',
-        text: 'Selectionner avec la liste déroulante avec le numéro choisie ',
-        attachTo: {
-            element: '#template2',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Vous avez feuilleter le catalogue ?',
+            text: 'Selectionner avec la liste déroulante avec le numéro choisie ',
+            attachTo: {
+                element: '#template2',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Choissez votre typographie favorite',
-        text: 'Selectionner avec la liste déroulante avec la police qui vous plait',
-        attachTo: {
-            element: '#police',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Choissez votre typographie favorite',
+            text: 'Selectionner avec la liste déroulante avec la police qui vous plait',
+            attachTo: {
+                element: '#police',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Choissez votre taille de Police (facultatif)',
-        text: 'Selectionner avec la liste déroulante la taille de police qui vous plait',
-        attachTo: {
-            element: '#sizePolice',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Choissez votre taille de Police (facultatif)',
+            text: 'Selectionner avec la liste déroulante la taille de police qui vous plait',
+            attachTo: {
+                element: '#sizePolice',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Choissez votre couleur de police(facultatif)',
-        text: 'Selectionner votre couleur en cliquant ',
-        attachTo: {
-            element: '#color',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Choissez votre couleur de police(facultatif)',
+            text: 'Selectionner votre couleur en cliquant ',
+            attachTo: {
+                element: '#color',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Boite à outils de personnalisation (facultatif)',
-        text: 'Selectionner en cliquant sur le bouton souhaiter, pour annuler cliquer de nouveaux dessus',
-        attachTo: {
-            element: '#underline',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Boite à outils de personnalisation (facultatif)',
+            text: 'Selectionner en cliquant sur le bouton souhaiter, pour annuler cliquer de nouveaux dessus',
+            attachTo: {
+                element: '#underline',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Entrer votre texte içi',
-        text: 'Laisser exprimer votre imagination',
-        attachTo: {
-            element: '.emojionarena',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Entrer votre texte içi',
+            text: 'Laisser exprimer votre imagination',
+            attachTo: {
+                element: '.emojionarena',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Ajouter des smileys (facultatif)',
-        text: 'Cliquer sur le 😀 en haut a droite de la zone de texte pour ouvrir le panneau de smileys',
-        attachTo: {
-            element: '.emojionarena',
-            on: 'right'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Ajouter des smileys (facultatif)',
+            text: 'Cliquer sur le 😀 en haut a droite de la zone de texte pour ouvrir le panneau de smileys',
+            attachTo: {
+                element: '.emojionarena',
+                on: 'right'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Voir le rendu sur votre template',
-        text: 'Cliquer sur le bouton rose Appliqer les modifications',
-        attachTo: {
-            element: '#ok',
-            on: 'bottom'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Voir le rendu sur votre template',
+            text: 'Cliquer sur le bouton rose Appliqer les modifications',
+            attachTo: {
+                element: '#ok',
+                on: 'bottom'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Placer ou vous souhaiter vote texte',
-        text: 'Cliquer sur votre et déplacer le ou vous souhaiter',
-        attachTo: {
-            element: '#backgroundcanvas',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Placer ou vous souhaiter vote texte',
+            text: 'Cliquer sur votre et déplacer le ou vous souhaiter',
+            attachTo: {
+                element: '#backgroundcanvas',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'Suivant'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'Suivant'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.addStep({
-        title: 'Vous êtes satisfait ?',
-        text: 'Cliquer sur le boutton vert pour valider et passer aux autres personnalisation',
-        attachTo: {
-            element: '#NextStep',
-            on: 'top'
-        },
-        buttons: [
-            {
-            action() {
-                return this.back();
+            title: 'Vous êtes satisfait ?',
+            text: 'Cliquer sur le boutton vert pour valider et passer aux autres personnalisation',
+            attachTo: {
+                element: '#NextStep',
+                on: 'top'
             },
-            classes: 'shepherd-button-secondary',
-            text: 'Retour'
-            },
-            {
-            action() {
-                return this.next();
-            },
-            text: 'J\'ai tout compris !'
-            }
-        ],
-        id: 'creating2'
+            buttons: [{
+                    action() {
+                        return this.back();
+                    },
+                    classes: 'shepherd-button-secondary',
+                    text: 'Retour'
+                },
+                {
+                    action() {
+                        return this.next();
+                    },
+                    text: 'J\'ai tout compris !'
+                }
+            ],
+            id: 'creating2'
         });
 
         tour.start();
-
-  </script>
+    </script>
 
 </body>
 
 
 </html>
- 
