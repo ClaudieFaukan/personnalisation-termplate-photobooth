@@ -898,7 +898,7 @@
 
                 //Si tout les format selectionner, passe au paysage
                 if (all == "true") {
-                    pathUrl = "/templatePortrait.php?mail=" + mail +
+                    pathUrl = "/photobooth-custom/templatePortrait.php?mail=" + mail +
                         "&commande=" + commande +
                         "&all=" + all +
                         "&fontweight=" + encodeURIComponent(optionsGetUser["fontWeight"]) +

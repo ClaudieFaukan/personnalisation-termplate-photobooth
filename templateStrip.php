@@ -915,7 +915,7 @@
 
 
 
-                pathUrl = "/finish.php"
+                pathUrl = "/photobooth-custom/finish.php"
 
 
                 $.ajax({

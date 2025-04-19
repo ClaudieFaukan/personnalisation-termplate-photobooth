@@ -900,7 +900,7 @@
 
                 //Si tout les format selectionner, passe au paysage
                 if (all == "true") {
-                    pathUrl = "/templatePaysage.php?mail=" + mail +
+                    pathUrl = "/photobooth-custom/templatePaysage.php?mail=" + mail +
                         "&commande=" + commande +
                         "&all=" + all +
                         "&fontweight=" + encodeURIComponent(optionsGetUser["fontWeight"]) +

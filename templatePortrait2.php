@@ -896,7 +896,7 @@
 
                 //Si tout les format selectionner, passe au paysage
                 if (all == "true") {
-                    pathUrl = "/templateStrip.php?mail=" + mail +
+                    pathUrl = "/photobooth-custom/templateStrip.php?mail=" + mail +
                         "&commande=" + commande +
                         "&all=" + all +
                         "&fontweight=" + encodeURIComponent(optionsGetUser["fontWeight"]) +
