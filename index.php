@@ -20,32 +20,32 @@ if(empty($format) || empty($mail) || empty($commande)){
     switch ($format) {
     
         case 'centrer':
-            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/templateCentrer.php?mail=".$mail."&commande=".$commande."&all=false";
+            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/photobooth-custom/templateCentrer.php?mail=".$mail."&commande=".$commande."&all=false";
             header($path);
             break;
 
         case 'portrait':
-            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/templatePortrait.php?mail=".$mail."&commande=".$commande."&all=false";
+            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/photobooth-custom/templatePortrait.php?mail=".$mail."&commande=".$commande."&all=false";
             header($path);
             break;    
     
         case 'paysage':
-            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/templatePaysage.php?mail=".$mail."&commande=".$commande."&all=false";
+            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/photobooth-custom/templatePaysage.php?mail=".$mail."&commande=".$commande."&all=false";
             header($path);
             break;
     
         case 'stripe':
-            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/templateStrip.php?mail=".$mail."&commande=".$commande."&all=false";
+            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/photobooth-custom/templateStrip.php?mail=".$mail."&commande=".$commande."&all=false";
             header($path);
             break;
     
         case 'all':
-            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/templateCentrer.php?mail=".$mail."&commande=".$commande."&all=true";
+            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/photobooth-custom/templateCentrer.php?mail=".$mail."&commande=".$commande."&all=true";
             header($path);
             break;        
 
         case 'cutie':
-            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/templateCutiePortrait.php?mail=".$mail."&commande=".$commande."&all=false";
+            $path = "Location: http://".$_SERVER["HTTP_HOST"]."/photobooth-custom/templateCutiePortrait.php?mail=".$mail."&commande=".$commande."&all=false";
             header($path);    
             break;
         default:
