@@ -1042,7 +1042,7 @@
                     }, 
                 }).then(()=>{
                     var link = document.createElement("a");
-                    link.href = "/templateCentrer2.php?mail="+mail+
+                    link.href = "/photobooth-custom/templateCentrer2.php?mail="+mail+
                                 "&commande="+commande+
                                 "&all="+all+
                                 "&fontweight="+ encodeURIComponent(options["fontWeight"])+
