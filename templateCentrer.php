@@ -1033,7 +1033,7 @@
 
                 $.ajax({
                     type: "POST",
-                    url: "/saveTemplate.php",
+                    url: "/photobooth-custom/saveTemplate.php",
                     data: {
                         "image" : canvas.toDataURL(),
                         "format": "centrer_1pose",
