@@ -911,7 +911,7 @@
                         "&textBackgroundColor=" + encodeURIComponent(textBackgroundColor.value) +
                         "&fontColor=" + encodeURIComponent(optionsGetUser["fill"]);
                 } else {
-                    pathUrl = "/finish.php"
+                    pathUrl = "/photobooth-custom/finish.php"
                 }
 
                 $.ajax({
